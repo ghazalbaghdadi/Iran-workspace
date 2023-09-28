@@ -1,3 +1,9 @@
 .mybackground{
     background-color: #005f73; 
  }
+ .dropdown:hover .dropdown-menu {
+    display: block;
+ }
+ .nav-link:hover {
+     color: blue !important;
+ }
